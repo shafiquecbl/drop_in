@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "509913894226",
+    "project_id": "dropin-378716",
+    "storage_bucket": "dropin-378716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509913894226:android:17f16bdb5b0d3ecfaebe8b",
+        "android_client_info": {
+          "package_name": "com.dropin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509913894226-mfe0tuss8kvs84m24lj9tt9u864o0u8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnTXWgsdrsByrwXcjH_XEzVWuqGYLLpD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509913894226-esn7nsu4o0t20ccendbnhkui32abn3aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509913894226-j0ja8ditabnttqomiuo5hk7ga43u08ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativefirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509913894226:android:dab16fafcd908dceaebe8b",
+        "android_client_info": {
+          "package_name": "com.dropin.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509913894226-mfe0tuss8kvs84m24lj9tt9u864o0u8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnTXWgsdrsByrwXcjH_XEzVWuqGYLLpD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509913894226-esn7nsu4o0t20ccendbnhkui32abn3aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509913894226-j0ja8ditabnttqomiuo5hk7ga43u08ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativefirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
